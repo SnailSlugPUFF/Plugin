@@ -1,0 +1,10 @@
+{
+    "name": {
+        "message": "CalendarPro",
+        "description": "extension name"
+    },
+    "description": {
+        "message": "The best extension for working with the calendar",
+        "description": "extension descriptions"
+    }
+}
